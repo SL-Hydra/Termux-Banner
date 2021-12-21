@@ -47,7 +47,7 @@
 
 ```git clone https://github.com/SL-Hydra/Termux-Banner```
 
-```cd Termux Banner```
+```cd Termux-Banner```
 
 ```python Banner.py```
 
