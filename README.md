@@ -45,7 +45,7 @@
 
 ```pkg intall git -y```
 
-```git clone https://github.com/SL-Hydra/Termux-Banner```
+```git clone https://github.com/SL-Hydra/Termux-Banner.git```
 
 ```cd Termux-Banner```
 
