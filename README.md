@@ -57,7 +57,7 @@
 	     
 ## [#] IMPORTANT
 	
-	(1) Check Your Internet Connection📶
+	(1) Termux Basic Knowledge☺️
 
 <hr />
 
