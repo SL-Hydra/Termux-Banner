@@ -1,7 +1,7 @@
 <h1><p align= "center">~Termux Banner Tool~</p></h1>
 <h3><p align= "center">The Easiest Way To Add a Termux Banner 🤗</p></h3><br>
 
-<h4><p align = "center">Tool By ⒹⓈ᭄ʜʏᴅʀᴀ✘๛ˢᴸ<p><h4>
+<h4><p align = "center">Tool By HYDRA<p><h4>
 <div>  
 <p align= "center">
 <img src="https://www.udrop.com/file/6cKt/hack_49-1.jpg",width="80", height="80",alt="john-kener"/>
@@ -10,8 +10,8 @@
 <hr />
 <p align="center">
 👇Contact Me On 👇<br><br>
-<a href="https://t.me/MahiyaSL"><img title="Telegram " src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram"></a>
-<a href="https://wa.me/+94764480414"><img title="Whatsapp" src="https://img.shields.io/badge/WHATSAPP -red?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://t.me/hydraSL"><img title="Telegram " src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram"></a>
+<a href="https://wa.me/+94773623115"><img title="Whatsapp" src="https://img.shields.io/badge/WHATSAPP -red?style=for-the-badge&logo=whatsapp"></a>
 </br>
 <hr />
 <p align="center">
@@ -61,7 +61,7 @@
 
 <hr />
 
-#### © 2021 - ⒹⓈʜʏͥᴅᷧʀᷟᴀ✘๛ˢᴸ 😈¦нα¢к3яѕ™¦😈
+#### © 2021 - HYDRA 😈¦нα¢к3яѕ™¦😈
 
 
 <hr />
